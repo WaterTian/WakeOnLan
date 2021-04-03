@@ -1,0 +1,12 @@
+{
+  "name": "WakeOn",
+  "version": "0.0.1",
+  "description": "WakeOn use Node",
+  "main": "main.js",
+  "author": "WaterTian <changewater@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.3.0",
+    "wake_on_lan": "^1.0.0"
+  }
+}
